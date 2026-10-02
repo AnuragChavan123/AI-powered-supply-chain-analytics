@@ -109,7 +109,7 @@ AI-Powered-Supply-Chain-Analytics/
 ## 📸 Screenshots
 
 ### n8n Automation Workflow
-![n8n Workflow](images/n8n_workflow.png)
+![n8n Workflow](https://github.com/AnuragChavan123/AI-powered-supply-chain-analytics/blob/main/Screenshot%202026-10-02%20122134.png?raw=true)
 
 ### PostgreSQL / Supabase Schema
 ![Database Schema](images/supabase_schema.png)
