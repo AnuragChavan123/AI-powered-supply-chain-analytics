@@ -115,7 +115,7 @@ AI-Powered-Supply-Chain-Analytics/
 ![Database Schema](https://github.com/AnuragChavan123/AI-powered-supply-chain-analytics/blob/main/Screenshot%202026-10-02%20123418.png?raw=true)
 
 ### Quadratic AI-Powered Analysis
-![Quadratic Analysis](images/quadratic_analysis.png)
+![Quadratic Analysis](https://github.com/AnuragChavan123/AI-powered-supply-chain-analytics/blob/main/Screenshot%202026-10-02%20125928.png?raw=true)
 
 ### KPI Summary / Insights
 ![KPI Dashboard](images/kpi_summary.png)
