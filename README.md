@@ -112,7 +112,7 @@ AI-Powered-Supply-Chain-Analytics/
 ![n8n Workflow](https://github.com/AnuragChavan123/AI-powered-supply-chain-analytics/blob/main/Screenshot%202026-10-02%20122134.png?raw=true)
 
 ### PostgreSQL / Supabase Schema
-![Database Schema](images/supabase_schema.png)
+![Database Schema](https://github.com/AnuragChavan123/AI-powered-supply-chain-analytics/blob/main/Screenshot%202026-10-02%20123418.png?raw=true)
 
 ### Quadratic AI-Powered Analysis
 ![Quadratic Analysis](images/quadratic_analysis.png)
